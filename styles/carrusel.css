@@ -1,0 +1,25 @@
+body{
+    background-image: radial-gradient(circle at 36.56% 42.24%, #d6fff9 0, 
+        #c2fff7 10%, #abfff5 20%, #90fff3 30%, #6efcf2 40%, #3cf2f2 50%,
+        #00e8f3 60%, #00def6 70%, #00d5fa 80%, #00ccfe 90%, #00c4ff 100%);
+
+}
+
+.carousel {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+}
+#imagen {
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+
+button{
+    background-image: radial-gradient(circle at 50% -20.71%, #fffd7b 0, #fffe6e 8.33%, 
+        #fffd61 16.67%, #fffc55 25%, #f1f94b 33.33%, #d4f642 41.67%, #b5f23c 50%,
+        #92ed3b 58.33%, #69e93f 66.67%, #28e548 75%, #00e154 83.33%, #00dd62 91.67%, #00d972 100%);
+
+
+}
